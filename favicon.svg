@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>등촌 마사지 추천 가이드</title>
+  <rect width="64" height="64" rx="12" fill="hsl(50 43% 36%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(134 68% 68%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(50 24% 96%)" stroke-width="7" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(134 68% 68%)" stroke-width="7" stroke-linecap="round"/></g>
+</svg>
